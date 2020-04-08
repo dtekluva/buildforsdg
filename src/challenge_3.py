@@ -1,0 +1,10 @@
+#def  rate_of_infection():
+#	name = input("Enter the name of your region: ")
+#	avg_age = int(input("what is the average age in your region: "))
+#	avg_daily_income_in_USD = int(input("what is the average daily income in your region: "))
+#	avg_daily_income_population = int(input("what is the average daily income population in your region: "))
+#	period_type = int(input("Enter the number of days: "))
+#	time_to_elapse =  int(input("Enter the time elapsed: "))
+#	reported_cases = int(input("Enter value for reported cases: "))
+#	population = int(input("Enter population: "))
+#	total_hospital_beds = int(input("Enter hospital beds: "))
