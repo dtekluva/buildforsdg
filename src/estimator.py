@@ -18,7 +18,11 @@ def estimator(data):
 	severeImpact["infectionsByRequestedTime"] = severe_infected_cases(data["currently_infected"], data																										["multiplier_factor"])
 
 
+	response =  { 
+			data: data,          # the input data you got
+			impact: impact,        // your best case estimation
+			severeImpact: severeImpact   // your severe case estimation
+		}
 
 
-
-	return data
+	return response
