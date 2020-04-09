@@ -8,3 +8,14 @@
 #	reported_cases = int(input("Enter value for reported cases: "))
 #	population = int(input("Enter population: "))
 #	total_hospital_beds = int(input("Enter hospital beds: "))
+
+
+#name = "Africa"
+#avg_age = 19.7
+#avg_daily_income_in_USD = 5
+#avg_daily_income_population = 0.71
+#period_type = "days"
+#Time_to_Elapse =  58
+#reported_cases = 674
+#population = 66622705
+#total_hospital_beds = 1380614
